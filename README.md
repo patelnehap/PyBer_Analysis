@@ -1,9 +1,11 @@
 # PyBer_Analysis
 
-The purpose of the project was to analyze ridesharing data for PyBer in order to promote access to ride-sharing services and determine affordability for underprivileged neighborhoods.Leadership wanted the team to dive deeper to review the data by city type and provide an analysis on the total weekly fares for each city type
+##Summary
+The purpose of the project was to analyze ridesharing data for PyBer in order to promote access to ride-sharing services and determine affordability for underprivileged neighborhoods.
+Leadership wanted the team to dive deeper to review the data by city type and provide an analysis on the total weekly fares for each city type
 
 
-Results
+##Results
 The following key metrics were calculated and a dataframe was created to observe and analyze some disparities in city types.
 
 <img   src="https://github.com/patelnehap/UFO/blob/main/Article.JPG" style="display: inline-block; margin: 0 auto; max-width: 300px">
@@ -12,7 +14,7 @@ The following key metrics were calculated and a dataframe was created to observe
 
 2. The Rural city type had the least number of total drivers giving way to having the highest average fare per driver even though the ratio of total rides to total drivers is equivalent to the Suburban city type.
 
-Total Fare by City Type
+<b>Total Fare by City Type</b>
 
 <img   src="https://github.com/patelnehap/UFO/blob/main/Graph.JPG" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
