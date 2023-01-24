@@ -1,14 +1,15 @@
 # PyBer_Analysis
 
-##Summary
+## Overview 
+
 The purpose of the project was to analyze ridesharing data for PyBer in order to promote access to ride-sharing services and determine affordability for underprivileged neighborhoods.
 Leadership wanted the team to dive deeper to review the data by city type and provide an analysis on the total weekly fares for each city type
 
 
-##Results
+## Results
 The following key metrics were calculated and a dataframe was created to observe and analyze some disparities in city types.
 
-<img   src="https://github.com/patelnehap/UFO/blob/main/Article.JPG" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img  src="https://github.com/patelnehap/PyBer_Analysis/blob/main/Challenge/Images/Summary.JPG" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 1. The Urban city type had more total drivers than total rides, which had a dramatic impact on the average fare per ride and average fare per driver. The Urban drivers had the lowest average fare per ride and earned significantly less than the Rural drivers.
 
@@ -16,7 +17,7 @@ The following key metrics were calculated and a dataframe was created to observe
 
 <b>Total Fare by City Type</b>
 
-<img   src="https://github.com/patelnehap/UFO/blob/main/Graph.JPG" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img  src="https://github.com/patelnehap/PyBer_Analysis/blob/main/Challenge/Images/Graph.JPG" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 The multiple-line chart "Total Fare by City Type" further supports the PyBer Summary DataFrame by providing trends of total fares in rural, suburban, and urban cities between January 2019 and April 2019. 
 
